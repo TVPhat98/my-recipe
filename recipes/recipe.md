@@ -1,6 +1,8 @@
-### **Poulpe Caramélisé au Pepsi et Harissa**  
+# **Poulpe Caramélisé au Pepsi et Harissa**  
 
-#### **Ingrédients (pour 2 personnes) :**  
+> By Nicolas Mai's ChatGPT
+
+### **Ingrédients (pour 2 personnes) :**  
 - 1 poulpe (500 g)  
 - 33 cl de Pepsi  
 - 1 c. à soupe de harissa  
@@ -13,7 +15,7 @@
 - Sel et poivre  
 - Coriandre fraîche  
 
-#### **Préparation :**  
+### **Préparation :**  
 
 1. Cuire le poulpe dans de l’eau salée pendant **45 min**, égoutter et laisser refroidir.  
 2. Mélanger **Pepsi, harissa, ail, sauce soja, miel, paprika fumé, jus de citron**.  
